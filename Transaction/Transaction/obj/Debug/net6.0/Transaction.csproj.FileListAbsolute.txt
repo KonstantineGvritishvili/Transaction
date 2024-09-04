@@ -1,0 +1,14 @@
+C:\Users\Kote\source\repos\Transaction\Transaction\bin\Debug\net6.0\Transaction.exe
+C:\Users\Kote\source\repos\Transaction\Transaction\bin\Debug\net6.0\Transaction.deps.json
+C:\Users\Kote\source\repos\Transaction\Transaction\bin\Debug\net6.0\Transaction.runtimeconfig.json
+C:\Users\Kote\source\repos\Transaction\Transaction\bin\Debug\net6.0\Transaction.dll
+C:\Users\Kote\source\repos\Transaction\Transaction\bin\Debug\net6.0\Transaction.pdb
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.AssemblyInfoInputs.cache
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.AssemblyInfo.cs
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.dll
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\refint\Transaction.dll
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.pdb
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\Transaction.genruntimeconfig.cache
+C:\Users\Kote\source\repos\Transaction\Transaction\obj\Debug\net6.0\ref\Transaction.dll
